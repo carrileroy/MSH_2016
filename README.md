@@ -1,6 +1,6 @@
 # MSH_2016
-Data from Mount St Helens surveys 2016
-Published in Freshwater Biology, 2021
+Data from "Variation in riparian and stream assemblages across the primary succession landscape of Mount St. Helens, U.S.A." in Claeson et al. (2021) published in Freshwater Biology, Vol 66, 1002-1017. 
+Surveys of primary successional streams at Mount St Helens in 2015-2016. 
 
 Raw data analyzed in the study are provided as an Excel file with appropriate metadata ("MSH2016_data_Github.xlsx").
 
